@@ -26,5 +26,6 @@ public class Dropper : MonoBehaviour
             rb.useGravity = true;
         }
         //Debug.Log("your time:"+ Time.time);
+        //
     }
 }
